@@ -1,2 +1,2 @@
 # Sql-Elementary
-I will learn SQL basics.
+I started to improve my SQL knowledge.
